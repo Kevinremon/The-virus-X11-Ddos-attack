@@ -9,7 +9,7 @@ x011 = """
     /\        1 1    1 1
    /  \       1 1    1 1
   /    \      1 1    1 1
-        {Wh}TOOLS  X011 V.1.1 {Ye}  {Wh}CREDIT � HUNXBYTS                    
+        {Wh}TOOLS  X011 V.1.1 {Ye}  {Wh}MADE BY GLITCH                    
 """
 for char in x011:
   print(char,end="")
